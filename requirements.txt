@@ -1,0 +1,4 @@
+## Dependencies
+- Python 3.x
+- Tkinter (included in standard Python distribution)
+- Pillow (Python Imaging Library, for image processing)
